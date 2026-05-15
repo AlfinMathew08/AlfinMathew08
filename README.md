@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Alfin Mathew
+# 👨🏻‍💻 Alfin Mathew Adukuzhiyil
 
 📱 BCA Student & Mobile Application Developer passionate about building modern, scalable, and user-friendly applications using Flutter, Firebase, and cloud technologies.
 
